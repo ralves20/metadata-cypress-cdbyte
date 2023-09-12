@@ -1,0 +1,15 @@
+{
+  "name": "coderbyte-cypress-challenge",
+  "version": "1.0.0",
+  "description": "Coderbyte Demoblaze Cypress Challenge",
+  "main": "index.js",
+  "scripts": {
+    "cypress:test": "npm cypress run",
+    "cypress:gui": "npm cypress open"
+  },
+  "author": "Rodrigo",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.5.1"
+  }
+}
